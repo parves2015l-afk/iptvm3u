@@ -3,6 +3,14 @@
 http://10.26.26.26:8080/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-2
 http://10.26.26.26:8080/tsports/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-3
+http://10.114.130.254:3255/TSportsHD_rc_bdix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-4
+http://10.114.130.254:3255/TSportsHD_sf_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-5
+http://10.114.130.254:3255/TSportsHD_rc_nix/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-6
+http://10.114.130.254:3255/TSportsHD_nk_bdix/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Sports",T Sports HD
 http://ubuntu.moonplex.net:8080/TSports_HD/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Sports",uneit8

@@ -10,9 +10,8 @@ http://10.114.130.254:3255/TSportsHD_sf_nix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-5
 http://10.114.130.254:3255/TSportsHD_rc_nix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-6
-http://10.114.130.254:3255/TSportsHD_nk_bdix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports (ALL Network)
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Sports",uneit8
 http://212.102.34.8:9080/AndFlixHD/video.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",Zee Bangla Chinena

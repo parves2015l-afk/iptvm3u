@@ -1,21 +1,21 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Sports",T Sports
 http://10.26.26.26:8080/live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-2
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Sports",T Sports-2
 http://10.26.26.26:8080/tsports/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-3
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Sports",T Sports-3
 http://10.114.130.254:3255/TSportsHD_rc_bdix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-4
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Sports",T Sports-4
 http://10.114.130.254:3255/TSportsHD_sf_nix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-5
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Sports",T Sports-5
 http://10.114.130.254:3255/TSportsHD_rc_nix/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png" group-title="Sports",T Sports-6
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Sports",T Sports-6
 http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Star_Sports_1_HD.png/960px-Star_Sports_1_HD.png",group-title="Sports",STAR SPORTS 
 http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png",group-title="Sports",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1280px-Bangladesh_Television_Logo.svg.png",group-title="Bangla",group-title="Bangla",BTV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1280px-Bangladesh_Television_Logo.svg.png",group-title="Sports",group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://bangabarta.com/storage/2025/08/Z-Bangla-Sonar.jpg",group-title="Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8
@@ -247,20 +247,16 @@ http://cdn01.palki.tv/live/TBN24-M/index.m3u8
 https://209a7ee785af4abf93eeff4c5a7a62cf.mediatailor.ap-south-1.amazonaws.com/v1/master/d367f9b863a7a04827f71ecab4cbeeb11f78a827/nh-bollyraga-airtel/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZB Cartoon
 https://server.zillarbarta.com/zbcatun/video.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZB Cinema
+#EXTINF:-1  tvg-logo="https://png.pngtree.com/png-vector/20250321/ourmid/pngtree-music-logo-design-vector-png-image_15808782.png",ZB Cinema
 https://server.zillarbarta.com/ZBCINEMA/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZB Music
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Music",ZB Music
 https://server.zillarbarta.com/zbmusic/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZillarBarta News
 https://server.zillarbarta.com/zillarbarta/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",গ্ৰীন টিভি বাংলাদেশ
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/chunks.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Show box music
-http://103.175.73.12:8080/live/469/469_0.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",ZEE BANGLA
-http://103.159.180.34:5001/live/625.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla Sonar
-https://stream.ottplus.live/live/zee_bangla_cinema_abr/live/zee_bangla_cinema_720/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",group-title="Bangla",ZEE BANGLA
+https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Bangla Sonar
 http://103.159.180.34:5001/live/3476.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",R Plus Gold
@@ -345,10 +341,8 @@ http://103.175.73.12:8080/live/17/17_0.m3u8
 http://103.175.73.12:8080/live/43/43_0.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4U Kadak
 http://103.175.73.12:8080/live/44/44_0.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",YRF MUSIC
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",group-title="Music",YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4u Music
-http://103.175.73.12:8080/live/157/157_0.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR GOLD THRILLS
 http://103.157.248.140:8000/play/a00b/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",STAR GOLD ROMANCE
@@ -389,13 +383,13 @@ http://103.175.73.12:8080/live/713/713_0.m3u8
 http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DD NEWS
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Jalwa
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Music",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Jhakkas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9XM
+#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/986/104/png-clipart-9xm-9x-media-music-television-live-music-miscellaneous-television.png",group-title="Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Tashan
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Music",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8
@@ -403,8 +397,6 @@ http://103.175.73.12:8080/live/256/256_0.m3u8
 https://d2lk5u59tns74c.cloudfront.net/out/v1/67cec794d8b14f9ba21f73924ac65797/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DD National
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/40492a64c1db4a1385ba1a397d357d3a/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Music India
-http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",NDTV India
 https://backupndtvindiaelemarchana.akamaized.net/hls/live/2004134/ndtvindia/master_1.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",News Nation
@@ -501,6 +493,5 @@ https://sm-monirul.top/toffee/play/hum_sitaray.m3u8
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",EUROSPORT 2
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-
 
 

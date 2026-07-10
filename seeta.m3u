@@ -15,7 +15,7 @@ http://103.165.93.31:8095/tsports/tracks-v1a1a2/mono.m3u8
 http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png",group-title="Sports",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1280px-Bangladesh_Television_Logo.svg.png",group-title="Sports",group-title="Bangla",BTV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/02/Bangladesh_Television_Logo.svg/1280px-Bangladesh_Television_Logo.svg.png",group-title="Bangla",group-title="Bangla",BTV
 https://owrcovcrpy.gpcdn.net/bpk-tv/1709/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://bangabarta.com/storage/2025/08/Z-Bangla-Sonar.jpg",group-title="Bangla",Zee Bangla Sonar
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=2137600.m3u8

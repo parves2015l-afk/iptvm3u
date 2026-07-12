@@ -83,10 +83,14 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/SONY_MAX_Logo_2022.png",group-title="Hindi",SONY MAX HD
 http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Hindi",Zee Bollywood
-https://sm-monirul.top/toffee/play/zee_bollywood.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Hindi",Zee Action
-https://sm-monirul.top/toffee/play/zee_action.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",group-title="Hindi",Goldmine Movie
+https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",group-title="Hindi",Goldmine Movie 2
+https://cdn-2.pishow.tv/live/1460/1460_0.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",group-title="Hindi",Goldmine Movie
+https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
+#EXTINF:-1  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png",group-title="Others",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",SONY MAX VIP
 https://sm-monirul.top/toffee/play/sony_max.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cafe

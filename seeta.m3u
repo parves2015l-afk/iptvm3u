@@ -91,8 +91,10 @@ https://cdn-2.pishow.tv/live/1460/1460_0.m3u8
 https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
 #EXTINF:-1  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png",group-title="English",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Zee Cinema HD
-https://sm-monirul.top/toffee/play/zee_cinema_hd.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",group-title="Hindi",Zee Action 
+http://103.175.73.12:8080/live/270/270_0.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/B4U_Logo.png",group-title="Hindi",B4U Movie
+https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TLC
 https://sm-monirul.top/toffee/play/tlc_sd.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Animal Planet
@@ -344,12 +346,16 @@ http://103.175.73.12:8080/live/257/257_0.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png",group-title="Music",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
+#EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/3d/c1/bb/3dc1bba9997c5e514cbf03db21c01baf.jpg",group-title="Music",Dhoom Music
+http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Music",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Jhakkas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/986/104/png-clipart-9xm-9x-media-music-television-live-music-miscellaneous-television.png",group-title="Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
+#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png",group-title="Music",Music India
+http://103.175.73.12:8080/live/158/158_0.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Music",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anmol TV

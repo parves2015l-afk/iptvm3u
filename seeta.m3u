@@ -89,12 +89,12 @@ https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
 https://cdn-2.pishow.tv/live/1460/1460_0.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",group-title="Hindi",Goldmine Movie
 https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
-#EXTINF:-1  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png",group-title="English",Action Hollywood Movies
-https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",group-title="Hindi",Zee Action 
 http://103.175.73.12:8080/live/270/270_0.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/B4U_Logo.png",group-title="Hindi",B4U Movie
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",group-title="Hindi",B4U Movie
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png",group-title="English",Action Hollywood Movies
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TLC
 https://sm-monirul.top/toffee/play/tlc_sd.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Animal Planet

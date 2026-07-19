@@ -88,7 +88,9 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",group-title="Bangla",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/SONY_MAX_Logo_2022.png",group-title="Hindi",SONY MAX HD
-http://103.165.93.31:8095/unt-s/tracks-v1a1/mono.m3u8
+https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg",group-title="Hindi",Hindi Movie Classic 24
+https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg",group-title="Hindi",B4U Kadak
 https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",group-title="Hindi",Zee Action
@@ -99,12 +101,16 @@ https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
 https://cdn-2.pishow.tv/live/1460/1460_0.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",group-title="Hindi",Goldmine Movie
 https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",group-title="Hindi",Zee Action 
-http://103.175.73.12:8080/live/270/270_0.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",group-title="Hindi",B4U Movie
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png",group-title="English",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/dc/Gopal_Bhar_animated_TV_series_title_card.webp",group-title="Kids",Gopal Bhar
+https://live20.bozztv.com/giatvplayout7/giatv-209611/index.m3u8
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/sco/c/cc/Motu_Patlu_official_logo.png",group-title="Kids",Moto Patlu
+https://live20.bozztv.com/giatvplayout7/giatv-209902/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/50/2/tom-and-jerry-logo-png_seeklogo-506115.png",group-title="Kids",Tom and Jerry 2
+https://live20.bozztv.com/giatvplayout7/giatv-208314/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",TLC
 https://sm-monirul.top/toffee/play/tlc_sd.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Animal Planet
@@ -358,15 +364,17 @@ https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/ceda14583477426aa162a65392d8ea07/in
 https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/3d/c1/bb/3dc1bba9997c5e514cbf03db21c01baf.jpg",group-title="Music",Dhoom Music
 http://103.175.73.12:8080/live/378/378_0.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png",group-title="Music",Zoom Music
+https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Music",9X Jalwa
 https://wiselp.wiseplayout.com/9X_Jalwa/master.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",9X Jhakkas
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/81/9X_Jhakaas_2011.jpg",group-title="Music",9X Jhakkas
 https://wiselp.wiseplayout.com/9X_Jhakaas/master.m3u8
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/986/104/png-clipart-9xm-9x-media-music-television-live-music-miscellaneous-television.png",group-title="Music",9XM
 https://wiselp.wiseplayout.com/9XM/master.m3u8
 #EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/618036953/music_india.png",group-title="Music",Music India
 http://103.175.73.12:8080/live/158/158_0.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Music",9X Tashan
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/34f7a758cc55df62756f64ee1ef78054.png",group-title="Music",9X Tashan
 https://wiselp.wiseplayout.com/9X_Tashan/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",Anmol TV
 http://103.175.73.12:8080/live/256/256_0.m3u8

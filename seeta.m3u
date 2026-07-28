@@ -85,6 +85,8 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/SONY_MAX_Logo_2022.png",group-title="Hindi",SONY MAX HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://p7.hiclipart.com/preview/878/103/676/zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo.jpg",group-title="Hindi",Zee Cinema
+https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Zee_Anmol_Cinema_2_logo.png",group-title="Hindi",ZEE ANIMAL CINEMA 2
 http://103.175.73.12:8080/live/257/257_0.m3u8
 #EXTINF:-1  tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg",group-title="Hindi",Hindi Movie Classic 24

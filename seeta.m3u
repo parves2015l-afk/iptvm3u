@@ -105,6 +105,9 @@ https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png",group-title="English",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
+
+#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",group-title="Music",YRF MUSIC
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png",group-title="Music",Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/1143_1.m3u8
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/3d/c1/bb/3dc1bba9997c5e514cbf03db21c01baf.jpg",group-title="Music",Dhoom Music
@@ -357,8 +360,7 @@ http://103.175.73.12:8080/live/17/17_0.m3u8
 http://103.175.73.12:8080/live/43/43_0.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",B4U Kadak
 http://103.175.73.12:8080/live/44/44_0.m3u8
-#EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",group-title="Music",YRF MUSIC
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
+
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",MBC BOLLYWOOD
 http://93.184.10.248/MBCBollywood/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",DD NATIONAL HD

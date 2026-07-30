@@ -9,11 +9,11 @@ http://10.114.130.254:3255/TSportsHD_rc_bdix/tracks-v1a1/mono.m3u8
 http://10.114.130.254:3255/TSportsHD_sf_nix/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Sports",T Sports-5
 http://10.114.130.254:3255/TSportsHD_rc_nix/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Sports",DD Sports
+#EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/238/54/png-transparent-indian-premier-league-dd-sports-television-dd-national-cricket-television-text-sport-thumbnail.png",group-title="Sports",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/19/1/sky-sports-logo-png_seeklogo-198328.png",group-title="Sports",Sky SPorts
 https://1nyaler.streamhostingcdn.top/stream/38/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Sports",BeIN Sports Extra
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",group-title="Sports",BeIN Sports Extra
 https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/14/1/uefa-champions-league-logo-png_seeklogo-144159.png",group-title="Sports",Champion League
 https://1nyaler.streamhostingcdn.top/stream/36/index.m3u8

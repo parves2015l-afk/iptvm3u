@@ -9,6 +9,8 @@ http://10.114.130.254:3255/TSportsHD_rc_bdix/tracks-v1a1/mono.m3u8
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/index.m3u8
 #EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/238/54/png-transparent-indian-premier-league-dd-sports-television-dd-national-cricket-television-text-sport-thumbnail.png",group-title="Sports",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png",group-title="Sports",Unite8 Sports 1
+https://s1.itcnbd.live/unite8-sports-1-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/19/1/sky-sports-logo-png_seeklogo-198328.png",group-title="Sports",Sky Sports
 https://1nyaler.streamhostingcdn.top/stream/38/index.m3u8
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/37/1/sports-logo-png_seeklogo-379057.png",group-title="Sports",Sports Range
@@ -54,11 +56,11 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=213
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Colors_Bangla_logo.svg/1280px-Colors_Bangla_logo.svg.png",group-title="Bangla",Colors Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",group-title="Bangla",Zee Bangla
-https://yupptvcatchupire.yuppcdn.net/preview/zeebangla/2500.m3u8
+https://s3.itcnbd.live/channel/5ddddd6f407f0574.m3u8
 #EXTINF:-1  tvg-logo="https://logowik.com/content/uploads/images/sony-aath9420.logowik.com.webp",group-title="Bangla",Sony Aath
 https://stream.ottplus.live/live/sony_aath_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png",group-title="Bangla",Star Jalsha
-https://yupptvcatchupire.yuppcdn.net/preview/starjalsha/1800.m3u8
+https://s3.itcnbd.live/channel/8a428ac0124345f3.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/4c/Enterr10_Bangla_logo_%282020%29.png",group-title="Bangla",Ente10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_720p/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/ATN_News_logo.svg/250px-ATN_News_logo.svg.png",group-title="News",ATN NEWS

@@ -98,6 +98,9 @@ https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png",group-title="Bangla",Star Jalsha Movies
 http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
+
+
+
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/SONY_MAX_Logo_2022.png",group-title="Hindi",SONY MAX HD
 https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMDI6ODA5MC9obHMvc29ueW1heGhkLm0zdTg.m3u8
 #EXTINF:-1  tvg-logo="https://p7.hiclipart.com/preview/878/103/676/zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo.jpg",group-title="Hindi",Zee Cinema

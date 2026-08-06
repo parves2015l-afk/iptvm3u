@@ -46,27 +46,27 @@ https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png",group-title="Bangla",Ekushey TV (480p)
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",Green TV (1080p)
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/83/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",group-title="Bangla",Green TV (1080p)
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",group-title="Bangla",RTV (720p)
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/23/2/r-tv-logo-png_seeklogo-237300.png",group-title="Bangla",group-title="Bangla",RTV (720p)
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",Bangla Vision (720p)
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/51/1/bangla-vision-tv-channel-logo-png_seeklogo-513051.png",group-title="Bangla",Bangla Vision (720p)
 https://tvsen5.aynaott.com/banglavision/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",ATN Bangla (720p)
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/31/1/atn-bangla-logo-png_seeklogo-314509.png",group-title="Bangla",ATN Bangla (720p)
 https://tvsen5.aynaott.com/atnbangla/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",Maasranga TV (720p)
+#EXTINF:-1  tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSTmEI3zgL97Dm2Vz8zwAaa8o0WQi2vHBQH9LVQgQC-vg&s=10",group-title="Bangla",Maasranga TV (720p)
 https://tvsen5.aynaott.com/maasrangatv/index.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",Channel S
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/ac/Channel_S_Official_LOGO.png",group-title="Bangla",Channel S
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channels.stream/live-orgin/channels.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",My TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/thumb/0/09/%E0%A6%AE%E0%A6%BE%E0%A6%87_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg/3840px-%E0%A6%AE%E0%A6%BE%E0%A6%87_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.svg.png",group-title="Bangla",My TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/mytv-up-off.stream/live-orgin/mytv-up-off.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",Gazi TV
+#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/b/b1/GTV_HD.png",group-title="Bangla",Gazi TV
 https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/gazibdz.stream/live-orgin/gazibdz.stream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",G-Series
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/d/d6/%E0%A6%9C%E0%A6%BF-%E0%A6%B8%E0%A6%BF%E0%A6%B0%E0%A6%BF%E0%A6%9C_%E0%A6%8F%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",group-title="Bangla",G-Series
 https://vods2.aynaott.com/gseriesDrama/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",Desh TV
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/25/Desh_tv_logo.jpg",group-title="Bangla",Desh TV
 https://bozztv.com/rongo/rongo-DeshTV/tracks-v1a1/mono.m3u8
-#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",Probashi
+#EXTINF:-1  tvg-logo="https://probashitvonline.com/wp-content/uploads/2025/11/logomain.jpg",group-title="Bangla",Probashi
 http://158.69.24.53:8080/probashi_tv/index.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Bangla",Deshe Bideshe
 https://dbcanada.sonarbanglatv.com/deshebideshe/dbtv/index.m3u8
@@ -94,29 +94,12 @@ https://byphdgllyk.gpcdn.net/hls/deeptotv/index.m3u8
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/39/1/ntv-channel-logo-png_seeklogo-396286.png",group-title="Bangla",NTV
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
-#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/36/1/news24-channel-logo-png_seeklogo-362149.png",group-title="News",News 24
-https://owrcovcrpy.gpcdn.net/bpk-tv/1708/output/index.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SA_TV_Bangladesh_Logo.svg/3840px-SA_TV_Bangladesh_Logo.svg.png",group-title="Bangla",SA TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1720/output/index.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/etv-gspn-bangla/images/4/45/Star_News_Bangladesh.png",group-title="News",Star News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1710/output/index.m3u8
-#EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/969/124/png-clipart-logo-bangladesh-independent-television-television-channel-design-television-text.png",group-title="Bangla",Independent News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/1704.m3u8
-#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/62/1/dbc-news-logo-png_seeklogo-626101.png",group-title="News",DBC News
-https://owrcovcrpy.gpcdn.net/bpk-tv/1728/output/index.m3u8
-#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/53/1/channel-9-logo-png_seeklogo-532421.png",group-title="Bangla",Channel 9
-https://owrcovcrpy.gpcdn.net/bpk-tv/1729/output/index.m3u8
-#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/60/1/desh-tv-logo-png_seeklogo-606364.png",group-title="Bangla",Desh TV
-https://owrcovcrpy.gpcdn.net/bpk-tv/1724/output/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png",group-title="News",Jago News 24
 https://app.ncare.live/live-orgin/jagonews24.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",group-title="Bangla",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png",group-title="Bangla",Star Jalsha Movies
 http://103.151.61.12/Jalsha_Movie/tracks-v1a1/mono.m3u8
-
-
-
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/SONY_MAX_Logo_2022.png",group-title="Hindi",SONY MAX HD
 https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMDI6ODA5MC9obHMvc29ueW1heGhkLm0zdTg.m3u8
 #EXTINF:-1  tvg-logo="https://p7.hiclipart.com/preview/878/103/676/zee-cinema-television-channel-zee-tv-zee-entertainment-enterprises-cinema-logo.jpg",group-title="Hindi",Zee Cinema

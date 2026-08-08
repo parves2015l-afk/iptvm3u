@@ -20,10 +20,6 @@ https://mflixott.com/tv/dd/live.php/598.m3u8
 http://tvsen7.aynascope.net/sspts1/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png",group-title="Sports",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/ZnzgZCLS/20240823_024321.png",group-title="Sports",Star Sports SL 1
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_1_HD.m3u8
-#EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/rmczbb8g/20240825_060019.png",group-title="Sports",Star Sports SL 2
-https://yowaimo.in/Sflex-ArtlPVT0719/STAR_SPORTS_SELECT_2_HD.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png",group-title="Sports",Sony Ten 1
 https://stream.ottplus.bd/live/ten_1_hd_abr/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png",group-title="Sports",Sony Ten 2
@@ -31,7 +27,7 @@ https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",group-title="Sports",Sony Ten 5
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",group-title="Sports",Bein Sports 1
-http://host.phorious.art/validation/377?deviceMac=10:27:BE:25:67:80&split=33da9c80155413830543e27c8520ba99&smart=1
+http://4y-ott.online/play/live.php?mac=00:1B:79:21:3D:E0&stream=971293&extension=ts&play_token=CZVXhgbOl4
 
 
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png",group-title="Sports",Unite8 Sports 1

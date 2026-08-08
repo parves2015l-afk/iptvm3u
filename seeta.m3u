@@ -1,7 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Sports",T Sports (Local Network)
-http://4y-ott.online/play/live.php?mac=00:1B:79:12:42:72&stream=1156645&extension=ts&play_token=kjzvmci5xG
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Sports",T Sports (Local Network)
 http://10.26.26.26:8080/live/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Sports",T Sports-2 (Local Network)
 http://10.26.26.26:8080/tsports/tracks-v1a1/mono.m3u8

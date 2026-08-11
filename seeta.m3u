@@ -11,9 +11,8 @@ https://s1.itcnbd.live/T-Sports-HD/tracks-v1a1/mono.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",group-title="Sports",A sports
 https://s3.itcnbd.live/channel/4203c78f100e1005.m3u8
-#EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7d/Willow_2023_stacked.svg",group-title="Sports",Willow Sports
+#EXTINF:-1  tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-282x300.png",group-title="Sports",Willow Sports
 https://mflixott.com/tv/dd/live.php/346.m3u8
-
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png",group-title="Sports",Willow Sports 2
 https://mflixott.com/tv/dd/live.php/598.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png",group-title="Sports",Star Sports 1
@@ -28,8 +27,6 @@ https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 #EXTINF:-1 group-title="𝐒𝐩𝐨𝐫𝐭𝐬" tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",group-title="Sports",Bein Sports 1
 http://4y-ott.online/play/live.php?mac=00:1B:79:21:3D:E0&stream=971293&extension=ts&play_token=CZVXhgbOl4
-
-
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png",group-title="Sports",Unite8 Sports 1
 https://s1.itcnbd.live/unite8-sports-1-hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/19/1/sky-sports-logo-png_seeklogo-198328.png",group-title="Sports",Sky Sports
@@ -62,6 +59,8 @@ https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_of_Bijoy_TV.svg/250px-Logo_of_Bijoy_TV.svg.png" group-title="Bangla",Bijoy Tv
 https://s3.itcnbd.live/channel/53186adbc9f3e961.m3u8
+#EXTINF:-1 tvg-logo="https://stage.akashdth.com/assets/uploads/channels_images/1751537128-35356560.png" group-title="Bangla",Rajdhani Tv
+https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-7JLWzG-B5NyP80AnkF7NEc2_Usk9yAeQVdFkdBFoyq3OIE96ok4vey-&s=10" group-title="Bangla",Jomuna Tv
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png" group-title="Bangla",Channel 1

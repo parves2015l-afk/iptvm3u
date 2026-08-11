@@ -60,6 +60,8 @@ https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u
 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/1/somoy-tv-logo-png_seeklogo-536972.png" group-title="Bangla",Somoy Tv
 https://live.thebosstv.com:30443/dwlive/Somoy-TV/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_of_Bijoy_TV.svg/250px-Logo_of_Bijoy_TV.svg.png" group-title="Bangla",Bijoy Tv
+https://s3.itcnbd.live/channel/53186adbc9f3e961.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-7JLWzG-B5NyP80AnkF7NEc2_Usk9yAeQVdFkdBFoyq3OIE96ok4vey-&s=10" group-title="Bangla",Jomuna Tv
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png" group-title="Bangla",Channel 1

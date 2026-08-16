@@ -12,7 +12,7 @@ https://playztv-apps.pages.dev/asports/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",group-title="Sports",Bein Sports 1
 http://4y-ott.online/play/live.php?mac=00:1B:79:21:3D:E0&stream=971293&extension=ts&play_token=CZVXhgbOl4
 #EXTINF:-1  tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-282x300.png",group-title="Sports",Willow Sports
-https://mflixott.com/tv/dd/live.php/346.m3u8
+https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/HntSg3xw/20240823_024624.png",group-title="Sports",Willow Sports 2
 https://mflixott.com/tv/dd/live.php/598.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png",group-title="Sports",Star Sports 1
@@ -44,7 +44,7 @@ http://103.175.73.12:8080/live/151/151_0.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/STAR_Sports_2_logo.png",group-title="Sports",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",group-title="Sports",ESPN Sports
-https://1nyaler.streamhostingcdn.top/stream/3/index.m3u8
+https://tvsen5.aynaott.com/espn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png",group-title="Sports",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/706/926/png-clipart-eurosport-2-logo-television-eurosport-1-eurosport-hd-television-blue-thumbnail.png",group-title="Sports",Euro TV
@@ -98,7 +98,7 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/ColorsHD/default/ColorsHD-video=213
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/7f/Colors_Bangla_logo.svg/1280px-Colors_Bangla_logo.svg.png",group-title="Bangla",Colors Bangla
 https://catchup.yuppcdn.net/amazonv2/36/preview/colorsbanglahd/master/chunklist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5f/Zee_Bangla_logo.png",group-title="Bangla",Zee Bangla
-https://s3.itcnbd.live/channel/5ddddd6f407f0574.m3u8
+https://tvsen6.aynaott.com/ZeeBangla/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Star_Jalsha_logo_2023.png/330px-Star_Jalsha_logo_2023.png",group-title="Bangla",Star Jalsha
 https://s3.itcnbd.live/server-4/stream/aHR0cDovLzE3Mi4xOS4xNy4yMzA6ODA5MC9obHMvU3RhckphbHNoYUhELm0zdTg.m3u8
 #EXTINF:-1  tvg-logo="https://logowik.com/content/uploads/images/sony-aath9420.logowik.com.webp",group-title="Bangla",Sony Aath

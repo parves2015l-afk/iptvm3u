@@ -113,6 +113,10 @@ https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 https://tvsen5.aynaott.com/xV4jEKf3D9zc/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/e/ed/%E0%A6%9C%E0%A6%BE%E0%A6%97%E0%A7%8B_%E0%A6%A8%E0%A6%BF%E0%A6%89%E0%A6%9C.png",group-title="News",Jago News 24
 https://live.shamim-iptv.workers.dev/jagonews24.m3u8
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/37/1/atn-news-logo-png_seeklogo-375970.png",group-title="News",ATN News
+https://s3.itcnbd.live/channel/0cbcb83589c6db55.m3u8
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/62/1/dbc-news-logo-png_seeklogo-626101.png",group-title="News",DBC News
+https://s3.itcnbd.live/channel/38e159dd84f396e1.m3u8
 #EXTINF:-1  tvg-logo="https://moviebangla.tv/wp-content/uploads/2024/06/moviebanglatv-logo-2.png",group-title="Bangla",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/61/Jalsha_Movies.png",group-title="Bangla",Star Jalsha Movies

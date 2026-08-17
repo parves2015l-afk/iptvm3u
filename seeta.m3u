@@ -132,6 +132,10 @@ http://office.area51.vip/play/live.php?mac=00:1A:79:82:F9:38&stream=155969&exten
 https://stream.ottplus.bd/live/zee_cinema_hd_abr/live/zee_cinema_hd_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c8/Zee_Anmol_Cinema_2_logo.png",group-title="Hindi",ZEE ANIMAL CINEMA 2
 http://103.175.73.12:8080/live/257/257_0.m3u8
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/45/1/pictures-hd-logo-png_seeklogo-457044.png",group-title="Hindi",& Picture
+https://stream.ottplus.bd/live/and_picture_hd_abr/live/and_picture_hd_720/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://www.zeetvusa.com/wp-content/uploads/2020/07/zbollywood332-03.png",group-title="Hindi",Z Bollywood
+https://stream.ottplus.bd/live/zee_bollywood_abr/live/zee_bollywood_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_af0da7926606216768d48d2189e3e12c_playmist_hindi_movie_classic_24.jpg",group-title="Hindi",Hindi Movie Classic 24
 https://vods2.aynaott.com/hindimovies/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/B4U_Kadak.jpeg",group-title="Hindi",B4U Kadak

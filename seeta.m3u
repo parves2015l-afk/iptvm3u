@@ -53,14 +53,14 @@ https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/btv-bangladesh-television-logo-png_seeklogo-459657.png" group-title="Bangla",Btv
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/btv-bangladesh-television-logo-png_seeklogo-459657.png" group-title="News",Btv News
 https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/1/somoy-tv-logo-png_seeklogo-536972.png" group-title="Bangla",Somoy Tv
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SA_TV_Bangladesh_Logo.svg/250px-SA_TV_Bangladesh_Logo.svg.png",group-title="Bangla",SA TV
 https://tvsen6.aynaott.com/rELXiuUXqbgzPb06Npom/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Logo_of_Bijoy_TV.svg/250px-Logo_of_Bijoy_TV.svg.png" group-title="Bangla",Bijoy Tv
-https://stream.ottplus.live/live/bijoy_tv_abr/index.m3u8
+https://tvsen6.aynaott.com/N8Xbo5vdwVU6sF43RsW0/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://stage.akashdth.com/assets/uploads/channels_images/1751537128-35356560.png" group-title="Bangla",Rajdhani Tv
 https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-7JLWzG-B5NyP80AnkF7NEc2_Usk9yAeQVdFkdBFoyq3OIE96ok4vey-&s=10" group-title="Bangla",Jomuna Tv
@@ -157,7 +157,7 @@ https://stream.ottplus.bd/live/zee_action_abr/live/zee_action_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",group-title="Hindi",Goldmine Movie
 https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",group-title="Hindi",Goldmine Movie 2
-https://cdn-2.pishow.tv/live/1460/1460_0.m3u8
+https://cdn-2.pishow.tv/live/1459/1459_0.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",group-title="Hindi",Goldmine Movie
 https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",group-title="Hindi",B4U Movie

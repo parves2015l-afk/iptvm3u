@@ -9,10 +9,20 @@ https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",group-title="Sports",A sports
 https://playztv-apps.pages.dev/asports/index.m3u8
+#EXTINF:-1  tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg",group-title="Sports",Cricket Gold
+https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 #EXTINF:-1  tvg-logo="https://assets.the-afc.com/broadcasters/SRP_Tapmad_RGB-1.png",group-title="Sports",Tapmad
 https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/level_0.m3u8
 #EXTINF:-1  tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-282x300.png",group-title="Sports",Willow Sports
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1 tvg-id="019efa45-ebae-74d0-80f3-0aaa66928bae" tvg-name="Dubai Sports 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_178fd67f7c1b0e4143333962bc7600e7_playmist_dubai_sports_2_400x400.jpg" group-title="Sports, Football",Dubai Sports 1
+https://tvsen6.aynaott.com/dubaisports1/index.m3u8
+#EXTINF:-1 tvg-id="019efa45-e89e-7321-9fc2-9cf4976f1179" tvg-name="Dubai Sports 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_cf039e1adb9e7c68fe5db6edf7a45dff_playmist_dubai_sports_2_400x400.jpg" group-title="Sports",Dubai Sports 2
+https://tvsen6.aynaott.com/DubaiSports2/index.m3u8
+#EXTINF:-1 tvg-id="019efa45-de92-7c61-ad71-70555dc02789" tvg-name="Dubai Sports 3" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_254a740621cd7010c72d50aea5e78253_playmist_dubai_sports_3.jpg" group-title="Sports",Dubai Sports 3
+https://tvsen6.aynaott.com/DubaiSports3/index.m3u8
+
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",group-title="Sports",Bein Sports 1
 http://4y-ott.online/play/live.php?mac=00:1B:79:21:3D:E0&stream=971293&extension=ts&play_token=CZVXhgbOl4
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png",group-title="Sports",Star Sports 1
@@ -67,6 +77,10 @@ https://stream.shariarsuvo.com/hls5/rajdhanicable.m3u8
 https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/3840px-Logo_of_Ananda_TV.svg.png" group-title="Bangla", Ananda
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
+#EXTINF:-1 tvg-id="019de785-3943-7dff-ae3b-9b79fed284a3" tvg-name="Channel 24" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82f2d197736c65ee983b3d691ad7c1f3_playmist_channel24.png" group-title="News, Bangla",Channel 24
+https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
+#EXTINF:-1 tvg-id="019f9d1e-903a-70f7-b217-aabdbdc97163" tvg-name="Channel 52" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg" group-title="Bangla",Channel 52
+https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png" group-title="Bangla",Channel 1
 https://akash.sm-monirul.top/channel_1.m3u8
 #EXTINF:-1  tvg-logo="https://www.metvbd.com/media/common/logo-fb.png",group-title="Bangla",Me TV
@@ -167,9 +181,9 @@ https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist
 
 
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/6/2/hbo-logo-png_seeklogo-65764.png",group-title="English",HBO
-http://23.237.104.106:8080/USA_HBO_ZONE/index.m3u8
+https://tvsen7.aynaott.com/hbo/index.m3u8
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/6/2/hbo-logo-png_seeklogo-65764.png",group-title="English",HBO 2
-https://tvsen7.aynaott.com/hbo/tracks-v1a1/mono.ts.m3u8
+https://tvsen3.aynaott.com/u3NjUrny/index.m3u8
 #EXTINF:-1  tvg-logo="https://image-resizer-cloud-cdn.api.cms.amdvids.com/image/9DA67180-77F0-4AAA-A1C4-148BEBA5BD25/3-1x1.png",group-title="English",Action Hollywood Movies
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/STAR_Movies_logo.svg/3840px-STAR_Movies_logo.svg.png",group-title="English",Star Movies
@@ -183,7 +197,7 @@ https://s3.itcnbd.live/channel/52b7d51af71864dc.m3u8
 #EXTINF:-1  tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/channel/756c50edae8599fb760cbbfb22010a75.png",group-title="Music",YRF MUSIC
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png",group-title="Music",Sangeet Bangla
-https://cdn-4.pishow.tv/live/1143/master.m3u8
+https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/3d/c1/bb/3dc1bba9997c5e514cbf03db21c01baf.jpg",group-title="Music",Dhoom Music
 http://103.175.73.12:8080/live/378/378_0.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png",group-title="Music",Zoom Music

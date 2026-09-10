@@ -1,30 +1,22 @@
 #EXTM3U
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/userupload/21953385/file/original-cd740507372d9bed9b7c6f046eb735cc.png",group-title="Sports",T Sports (Local Network)
 http://10.26.26.26:8080/live/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/userupload/21953385/file/original-cd740507372d9bed9b7c6f046eb735cc.png",group-title="Sports",T Sports-2 (Local Network)
-http://10.26.26.26:8080/tsports/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Sports",T Sports (ALL Network)
 https://tvsen5.aynaott.com/TnMn5kZz8aLm/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://w7.pngwing.com/pngs/238/54/png-transparent-indian-premier-league-dd-sports-television-dd-national-cricket-television-text-sport-thumbnail.png",group-title="Sports",DD Sports
 https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/b17adfe543354fdd8d189b110617cddd/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/A_Sports_Logo.png",group-title="Sports",A sports
-https://playztv-apps.pages.dev/asports/index.m3u8
+https://tvsen7.aynaott.com/asports-bkp/index.m3u8
 #EXTINF:-1  tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg",group-title="Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 #EXTINF:-1  tvg-logo="https://assets.the-afc.com/broadcasters/SRP_Tapmad_RGB-1.png",group-title="Sports",Tapmad
 https://seriealeague.akamaized.net/hls/live/2107107/A1@257-tapmad/level_0.m3u8
 #EXTINF:-1  tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-282x300.png",group-title="Sports",Willow Sports
 https://tvsen5.aynaott.com/willowhd/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-id="019efa45-ebae-74d0-80f3-0aaa66928bae" tvg-name="Dubai Sports 1" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_178fd67f7c1b0e4143333962bc7600e7_playmist_dubai_sports_2_400x400.jpg" group-title="Sports",Dubai Sports 1
-https://tvsen6.aynaott.com/dubaisports1/index.m3u8
-#EXTINF:-1 tvg-id="019efa45-e89e-7321-9fc2-9cf4976f1179" tvg-name="Dubai Sports 2" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_cf039e1adb9e7c68fe5db6edf7a45dff_playmist_dubai_sports_2_400x400.jpg" group-title="Sports",Dubai Sports 2
-https://tvsen6.aynaott.com/DubaiSports2/index.m3u8
-#EXTINF:-1 tvg-id="019efa45-de92-7c61-ad71-70555dc02789" tvg-name="Dubai Sports 3" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-14/images_254a740621cd7010c72d50aea5e78253_playmist_dubai_sports_3.jpg" group-title="Sports",Dubai Sports 3
-https://tvsen6.aynaott.com/DubaiSports3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/441hHtgZ/20250120_193746.png",group-title="Sports",Bein Sports 1
-http://4y-ott.online/play/live.php?mac=00:1B:79:21:3D:E0&stream=971293&extension=ts&play_token=CZVXhgbOl4
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png",group-title="Sports",Star Sports 1
-https://s3.itcnbd.live/channel/2929059f34d114ca.m3u8
+http://41.205.93.154/STARSPORTS1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png",group-title="Sports",Star Sports 2
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png",group-title="Sports",Sony Ten 1
@@ -34,11 +26,11 @@ https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",group-title="Sports",Sony Ten 5
 https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png",group-title="Sports",Unite8 Sports 1
-https://s1.itcnbd.live/unite8-sports-1-hd/tracks-v1a1/mono.m3u8
+https://stream.kliv.in/nex/oppx2_444332.m3u8
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/19/1/sky-sports-logo-png_seeklogo-198328.png",group-title="Sports",Sky Sports
 https://1nyaler.streamhostingcdn.top/stream/38/index.m3u8
-#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/18/1/ten-sports-logo-png_seeklogo-189992.png",group-title="Sports",Ten Cricket
-https://stream.ottplus.bd/live/ten_cricket_hd_abr/live/ten_cricket_hd_720/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/18/1/ten-sports-logo-png_seeklogo-189992.png",group-title="Sports",Ten Sports
+https://stream.kliv.in/nex/oppx2_167569.m3u8
 #EXTINF:-1  tvg-logo="https://www.asiasat.com/sites/default/files/2025-03/SPORT_RANGE%20%28colorful%29.png",group-title="Sports",Sports Range
 https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",group-title="Sports",BeIN Sports Extra
@@ -61,8 +53,8 @@ https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u
 
 
 
-#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/btv-bangladesh-television-logo-png_seeklogo-459657.png" group-title="News",Btv News
-https://tvsen6.aynaott.com/opREbXLqJ2HFYPCXTJBa/index.m3u8
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/45/1/btv-bangladesh-television-logo-png_seeklogo-459657.png" group-title="News",BTV HD
+http://livetv.akr4m.com:8080/bdtv/restrem/12.m3u8 
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/53/1/somoy-tv-logo-png_seeklogo-536972.png" group-title="Bangla",Somoy Tv
 https://tvsen6.aynaott.com/4XcqdovJzbbC9WdJA9gk/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b7/SA_TV_Bangladesh_Logo.svg/250px-SA_TV_Bangladesh_Logo.svg.png",group-title="Bangla",SA TV
@@ -88,7 +80,7 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d9/Ekushey_Television_Logo.svg/1280px-Ekushey_Television_Logo.svg.png",group-title="Bangla",Ekushey TV (480p)
 https://tvsen5.aynaott.com/SyQuXz8sC3TB/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/bn/8/83/%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%A8_%E0%A6%9F%E0%A6%BF%E0%A6%AD%E0%A6%BF%E0%A6%B0_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.png",group-title="Bangla",Green TV (1080p)
-https://app.ncare.live/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/greentv.stream/live-orgin/greentv.stream/playlist.m3u8
+https://tvsen6.aynaott.com/cLuA3hJR/index.m3u8
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/23/2/r-tv-logo-png_seeklogo-237300.png",group-title="Bangla",group-title="Bangla",RTV (720p)
 https://tvsen5.aynaott.com/RtvHD/index.m3u8
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/51/1/bangla-vision-tv-channel-logo-png_seeklogo-513051.png",group-title="Bangla",Bangla Vision (720p)
@@ -150,6 +142,8 @@ http://103.165.93.31:8095/jalshaMovies/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/SONY_MAX_Logo_2022.png",group-title="Hindi",SONY MAX HD
 https://stream.ottplus.bd/live/max_hd_abr/live/max_hd_720/chunks.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Hindi",South Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://images.seeklogo.com/logo-png/31/1/star-gold-logo-png_seeklogo-310758.png",group-title="Hindi",Star Gold
 https://s3.itcnbd.live/channel/f5dd87a5c3b03131.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Hindi",Hindi Movies 3
@@ -169,11 +163,11 @@ https://cdn-2.pishow.tv/live/227/master.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/a/a4/Zee_Action_2023_logo.png",group-title="Hindi",Zee Action
 https://stream.ottplus.bd/live/zee_action_abr/live/zee_action_720/chunks.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",group-title="Hindi",Goldmine Movie
-https://cdn-2.pishow.tv/live/1459/1459_2.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",group-title="Hindi",Goldmine Movie 2
-https://cdn-2.pishow.tv/live/1459/1459_0.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/6/68/Goldmines.jpg",group-title="Hindi",Goldmine Movie
-https://cdn-2.pishow.tv/live/1461/1461_0.m3u8
+https://vods2.aynaott.com/hindimovies/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Hindi",South Movies
+https://live20.bozztv.com/giatvplayout7/giatv-209593/tracks-v1a1/mono.ts.m3u8
+#EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Hindi",The Movie Club
+https://sis-global.prod.samsungtv.plus/v1/tvpprd/sc-mp2ar4ca425xo.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/B4U_MOVIES_2014.png",group-title="Hindi",B4U Movie
 https://amg00877-b4unew-amg00877c2-xiaomi-in-5489.playouts.now.amagi.tv/playlist.m3u8
 

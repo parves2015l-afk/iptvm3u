@@ -57,14 +57,14 @@ https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.pasjatv.pl/files/tv/photo/min/172735216318_logo_vertical_negativo-1.jpg",group-title="Sports",Real Madrid Tv
 https://rmtv.akamaized.net/hls/live/2043156/rmtv-en-mob/bitrate_3.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png",group-title="Sports",P Tv
-https://s1.itcnbd.live/PTV-Sports/tracks-v1a1/mono.m3u8
+https://flussonic.defineatoz.com/PTV/tracks-v1a1/mono.m3u8
 https://tvsen7.aynaott.com/ssport2hd/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",group-title="Sports",ESPN Sports
 https://tvsen5.aynaott.com/espn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png",group-title="Sports",Trace Sport
 https://lightning-tracesport-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://e7.pngegg.com/pngimages/706/926/png-clipart-eurosport-2-logo-television-eurosport-1-eurosport-hd-television-blue-thumbnail.png",group-title="Sports",Euro TV
-https://stream.ottplus.bd/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8
+https://drk6xq0vhn.gpcdn.net/live/euro_sports_hd_abr/live/euro_sports_hd/chunks.m3u8?nimblesessionid=183436592
 
 
 
@@ -85,11 +85,11 @@ https://tvsen6.aynaott.com/KGdZEdA7qQ43dmPkgk1j/index.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Logo_of_Ananda_TV.svg/3840px-Logo_of_Ananda_TV.svg.png" group-title="Bangla", Ananda
 https://tvsen6.aynaott.com/LeUAm4F1iixYns3s3Non/index.m3u8
 #EXTINF:-1 tvg-id="019de785-3943-7dff-ae3b-9b79fed284a3" tvg-name="Channel 24" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_82f2d197736c65ee983b3d691ad7c1f3_playmist_channel24.png" group-title="Bangla",Channel 24
-https://tvsen6.aynaott.com/YrVDF8gu/index.m3u8
+https://drk6xq0vhn.gpcdn.net/live/channel_24_abr/live/channel_24_720/chunks.m3u8?nimblesessionid=183439177
 #EXTINF:-1 tvg-id="019f9d1e-903a-70f7-b217-aabdbdc97163" tvg-name="Channel 52" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-26/images_9b7bab426198d5e39dea4b494cad717b_playmist_channel52.jpg" group-title="Bangla",Channel 52
 https://tvsen6.aynaott.com/channel52/index.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/Channel_1_Logo_Bangladesh.png" group-title="Bangla",Channel 1
-https://akash.sm-monirul.top/channel_1.m3u8
+https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDEEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFseWRtaW51aiPhnPTI2/channel1bd.stream/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.metvbd.com/media/common/logo-fb.png",group-title="Bangla",Me TV
 https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/I/21rORkifP6L.png",group-title="Bangla",Deshi TV (720p)

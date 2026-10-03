@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="",group-title="Sports",Live
-http://live.playmax.live/matribhumi/index.m3u8
+https://live2.domaincdn.cc/livecdn/channel-20.m3u8?auth_key=3000001791035890-0-0-3f6f7af63f15b72bde6fe90b9551e5ed
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/userupload/21953385/file/original-cd740507372d9bed9b7c6f046eb735cc.png",group-title="Sports",T Sports (Local Network)
 http://10.26.26.26:8080/live/tracks-v1a1/mono.m3u8

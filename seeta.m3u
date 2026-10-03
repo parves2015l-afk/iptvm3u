@@ -38,10 +38,6 @@ https://tvsen7.aynaott.com/tsn1/tracks-v1a1/mono.ts.m3u8
 https://tvsen7.aynaott.com/tsn2/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/31/1/tsn-3-logo-png_seeklogo-314924.png",group-title="Sports",TSN 3
 https://tvsen7.aynaott.com/tsn3/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/wjqC7RYx/20240823_024150.png",group-title="Sports",Sony Ten 2
-https://stream.ottplus.bd/live/ten_2_hd_abr/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/W4tx7R4Q/20240823_024232.png",group-title="Sports",Sony Ten 5
-https://stream.ottplus.bd/live/ten_5_hd_abr/index.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/67/Screenshot_2026-06-09_234117.png",group-title="Sports",Unite8 Sports 1
 https://stream.kliv.in/nex/oppx2_444332.m3u8
 #EXTINF:-1,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0e/Sky-sports-main-cricket.jpg",group-title="Sports",SKY SPORTS CRICKET

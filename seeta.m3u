@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc3ca363-a499-4367-8b0c-523f628d9d93/18/BOXART-16X9/en-US._UR1920,1080_.jpg",group-title="Sports",Live
-https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
+# Link Comment: https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/userupload/21953385/file/original-cd740507372d9bed9b7c6f046eb735cc.png",group-title="Sports",T Sports (Local Network)
 http://10.26.26.26:8080/live/tracks-v1a1/mono.m3u8

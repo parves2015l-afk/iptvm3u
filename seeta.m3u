@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc3ca363-a499-4367-8b0c-523f628d9d93/18/BOXART-16X9/en-US._UR1920,1080_.jpg",group-title="Sports",Live
-# Link Comment: https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
+
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/userupload/21953385/file/original-cd740507372d9bed9b7c6f046eb735cc.png",group-title="Sports",T Sports (Local Network)
 http://10.26.26.26:8080/live/tracks-v1a1/mono.m3u8
@@ -24,7 +24,7 @@ https://bein-esp-xumo.amagi.tv/playlistR1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/DzDHjCJm/20240823_024249.png",group-title="Sports",Star Sports 1
 https://drk6xq0vhn.gpcdn.net/live/ten_1_hd_abr/live/ten_1_hd_720/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zBgM9nK7/20240823_024306.png",group-title="Sports",Star Sports 2
-https://tvsen7.aynaott.com/ssport2hd/index.m3u8
+https://tvsen7.aynaott.com/ssport2hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://thumb.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/330px-FOX_Sports_logo.svg.png",group-title="Sports", FOX FCB
 https://d1jzu95oc8fgt3.cloudfront.net/FOX_Sports1080p.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/65fsWLS1/20240823_024136.png",group-title="Sports",Sony Ten 1

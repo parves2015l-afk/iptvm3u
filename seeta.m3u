@@ -1,7 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1  tvg-logo="https://m.media-amazon.com/images/S/le-target-images-prod/amzn1.dv.gti.bc3ca363-a499-4367-8b0c-523f628d9d93/18/BOXART-16X9/en-US._UR1920,1080_.jpg",group-title="Sports",Live
-https://tfzw1gr4uqmtt8y41hcjzgezdrmmcpf5gkce.100ycdn.com/live1.quickscoreboardz.com/live/channel6/playlist.m3u8
+#EXTINF:-1  tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/live-video-icon.png",group-title="Sports",Live
+
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/userupload/21953385/file/original-cd740507372d9bed9b7c6f046eb735cc.png",group-title="Sports",T Sports (Local Network)
 http://10.26.26.26:8080/live/tracks-v1a1/mono.m3u8
@@ -16,7 +16,7 @@ https://streams2.sofast.tv/sofast/goaltv/goaltv_2500k.m3u8
 #EXTINF:-1  tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-09/images_dde39b3fb713d4946a32e2c8ad5db00a_playmist_cricket_gold_400x400.jpg",group-title="Sports",Cricket Gold
 https://tvsen6.aynaott.com/M2W2UR49dmeKbZnmdRzN/index.m3u8
 #EXTINF:-1  tvg-logo="https://assets.the-afc.com/broadcasters/SRP_Tapmad_RGB-1.png",group-title="Sports",Tapmad
-https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//level_0.m3u8
+https://bpl24middleeast.akamaized.net/hls/live/2109311/j15klM//level_3.m3u8
 #EXTINF:-1  tvg-logo="https://bobgoldpr.com/wp-content/uploads/2024/10/Willow-Sports-Stacked-Logo-White-282x300.png",group-title="Sports",Willow Sports
 https://warm-caverns-48629-92fab798385f.herokuapp.com/https://d36r8jifhgsk5j.cloudfront.net/Willow_TV540p.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/XTRA_2.png",group-title="Sports",BeIN Sports Extra
@@ -201,7 +201,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01412-xiaomiasia-yrfmusic-xiaomi/pl
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/da/Sangeet_Bangla_logo_2006.png",group-title="Music",Sangeet Bangla
 https://tvsen6.aynaott.com/hT5jHczt/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/736x/3d/c1/bb/3dc1bba9997c5e514cbf03db21c01baf.jpg",group-title="Music",Dhoom Music
-http://103.175.73.12:8080/live/378/378_0.m3u8
+https://mumt06.tangotv.in/qYyB8fXVDHOOMMUSIC/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/Zoom_TV.png",group-title="Music",Zoom Music
 https://pubads.g.doubleclick.net/ssai/event/JCAm25qkRXiKcK1AJMlvKQ/master.m3u8
 #EXTINF:-1  tvg-logo="https://imgur.com/79g2kMA.png",group-title="Music",9X Jalwa

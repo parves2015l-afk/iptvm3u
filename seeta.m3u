@@ -1,7 +1,7 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/live-video-icon.png",group-title="Sports",Live
-
+https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/userupload/21953385/file/original-cd740507372d9bed9b7c6f046eb735cc.png",group-title="Sports",T Sports (Local Network)
 http://10.26.26.26:8080/live/tracks-v1a1/mono.m3u8
@@ -50,7 +50,7 @@ https://nomawnoijl.gpcdn.net/akash/sportrange/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.pasjatv.pl/files/tv/photo/min/172735216318_logo_vertical_negativo-1.jpg",group-title="Sports",Real Madrid Tv
 https://rmtv.akamaized.net/hls/live/2043156/rmtv-en-mob/bitrate_3.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0c/PTV_Logo.png",group-title="Sports",P Tv
-https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8
+http://103.135.253.32:8080/PTV-SPORTS/tracks-v1a1/mono.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/ESPN_logos.png",group-title="Sports",ESPN Sports
 https://tvsen5.aynaott.com/espn/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f4/TraceSSLogo.png",group-title="Sports",Trace Sport

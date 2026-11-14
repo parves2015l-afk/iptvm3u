@@ -1,7 +1,8 @@
 #EXTM3U
 
 #EXTINF:-1  tvg-logo="https://uxwing.com/wp-content/themes/uxwing/download/video-photography-multimedia/live-video-icon.png",group-title="Sports",Live
-https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8
+https://tvsen5.aynaott.com/TnMn5kZz8aLmjklkk/tracks-v1a1/mono.ts.m3u8
+#https://tvsen7.aynaott.com/zY3hJ7pQ2vM5gD8s/tracks-v1a1/mono.ts.m3u8
 
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/userupload/21953385/file/original-cd740507372d9bed9b7c6f046eb735cc.png",group-title="Sports",T Sports (Local Network)
 http://10.26.26.26:8080/live/tracks-v1a1/mono.m3u8

@@ -254,7 +254,7 @@ https://playlist.fasttvcdn.com/pl/dlkqw1ftuvuuzkcb4pxdcg/Iqraafasttv1/playlist.m
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Local Sports Channel",T Sports 1
 http://10.26.26.26:8080/tsports2/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Local Sports Channel",T Sports 2
-http://172.20.5.50:8082/T-SPORTS-HD/tracks-a1/mono.m3u8?token=83ae94abddd87d9e0f5e32f4c44431dd8bb50dd8-c0edfd6e5b516f0c71dd3bcbe51fd07e-1794820361-1794809561
+http://172.20.5.50:8082/T-SPORTS-HD/tracks-a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Local Sports Channel",T Sports 3
 http://100.100.100.94:4518/live-1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/T_Sports_logo.svg/3840px-T_Sports_logo.svg.png",group-title="Local Sports Channel",T Sports 4
